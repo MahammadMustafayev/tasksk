@@ -24,3 +24,17 @@ C:\Users\admin\OneDrive\İş masası\Task(C)\Task1C\Task1(C)\obj\Debug\netcoreap
 C:\Users\admin\OneDrive\İş masası\Task(C)\Task1C\Task1(C)\obj\Debug\netcoreapp3.1\Task1(C).dll
 C:\Users\admin\OneDrive\İş masası\Task(C)\Task1C\Task1(C)\obj\Debug\netcoreapp3.1\Task1(C).pdb
 C:\Users\admin\OneDrive\İş masası\Task(C)\Task1C\Task1(C)\obj\Debug\netcoreapp3.1\Task1(C).genruntimeconfig.cache
+C:\Users\tu7ekdm78\Desktop\tasksk\Task1(C)\bin\Debug\netcoreapp3.1\Task1(C).exe
+C:\Users\tu7ekdm78\Desktop\tasksk\Task1(C)\bin\Debug\netcoreapp3.1\Task1(C).deps.json
+C:\Users\tu7ekdm78\Desktop\tasksk\Task1(C)\bin\Debug\netcoreapp3.1\Task1(C).runtimeconfig.json
+C:\Users\tu7ekdm78\Desktop\tasksk\Task1(C)\bin\Debug\netcoreapp3.1\Task1(C).runtimeconfig.dev.json
+C:\Users\tu7ekdm78\Desktop\tasksk\Task1(C)\bin\Debug\netcoreapp3.1\Task1(C).dll
+C:\Users\tu7ekdm78\Desktop\tasksk\Task1(C)\bin\Debug\netcoreapp3.1\Task1(C).pdb
+C:\Users\tu7ekdm78\Desktop\tasksk\Task1(C)\obj\Debug\netcoreapp3.1\Task1(C).csproj.AssemblyReference.cache
+C:\Users\tu7ekdm78\Desktop\tasksk\Task1(C)\obj\Debug\netcoreapp3.1\Task1(C).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7ekdm78\Desktop\tasksk\Task1(C)\obj\Debug\netcoreapp3.1\Task1(C).AssemblyInfoInputs.cache
+C:\Users\tu7ekdm78\Desktop\tasksk\Task1(C)\obj\Debug\netcoreapp3.1\Task1(C).AssemblyInfo.cs
+C:\Users\tu7ekdm78\Desktop\tasksk\Task1(C)\obj\Debug\netcoreapp3.1\Task1(C).csproj.CoreCompileInputs.cache
+C:\Users\tu7ekdm78\Desktop\tasksk\Task1(C)\obj\Debug\netcoreapp3.1\Task1(C).dll
+C:\Users\tu7ekdm78\Desktop\tasksk\Task1(C)\obj\Debug\netcoreapp3.1\Task1(C).pdb
+C:\Users\tu7ekdm78\Desktop\tasksk\Task1(C)\obj\Debug\netcoreapp3.1\Task1(C).genruntimeconfig.cache

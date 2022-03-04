@@ -6,20 +6,19 @@ namespace Task1_C_
     {
         static void Main(string[] args)
         {
-
+            int count = 0;
             int m = 30;
             for (int n = 3; n<=m ; n++)
             {
                 if (n % 7 == 0)
                 {
-                    Console.WriteLine(n);
-                }
-                else
-                {
+                    count++;
                     
                 }
+                
             }
-            
+            Console.WriteLine(count);
+
         }
     }
 }
